@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAuth", "MauiAuth\MauiAuth.csproj", "{26FDCE03-8837-4045-B5B0-3A3C250DE98A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServices", "AuthServices\AuthServices.csproj", "{B379B824-C56C-458E-8ABC-DF736981DCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAuthBlazor", "MauiAuthBlazor\MauiAuthBlazor.csproj", "{976B7E31-8ED2-4BB3-9FCF-294DA3C3E2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26FDCE03-8837-4045-B5B0-3A3C250DE98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FDCE03-8837-4045-B5B0-3A3C250DE98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FDCE03-8837-4045-B5B0-3A3C250DE98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FDCE03-8837-4045-B5B0-3A3C250DE98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B379B824-C56C-458E-8ABC-DF736981DCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B379B824-C56C-458E-8ABC-DF736981DCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B379B824-C56C-458E-8ABC-DF736981DCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B379B824-C56C-458E-8ABC-DF736981DCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976B7E31-8ED2-4BB3-9FCF-294DA3C3E2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976B7E31-8ED2-4BB3-9FCF-294DA3C3E2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976B7E31-8ED2-4BB3-9FCF-294DA3C3E2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976B7E31-8ED2-4BB3-9FCF-294DA3C3E2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
